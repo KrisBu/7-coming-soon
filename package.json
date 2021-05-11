@@ -1,0 +1,23 @@
+{
+  "name": "7-coming-soon",
+  "version": "1.0.0",
+  "description": "Link to the project:",
+  "main": "index.js",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KrisBu/7-coming-soon.git"
+  },
+  "author": "Kris Bulovas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KrisBu/7-coming-soon/issues"
+  },
+  "homepage": "https://github.com/KrisBu/7-coming-soon#readme"
+}
